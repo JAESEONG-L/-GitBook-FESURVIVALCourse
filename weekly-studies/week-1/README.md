@@ -35,8 +35,8 @@ JavaScript로 알고리즘을 아주 가볍게 학습했었고, HTML과 CSS의 �
 
 ***
 
-* [ ] REPL
-* [ ] TypeScript\
+* [x] REPL
+* [x] TypeScript\
   **>** Interface vs Type\
   **>** 타입 추론\
   **>** Union Type vs Intersection Type\
@@ -44,11 +44,11 @@ JavaScript로 알고리즘을 아주 가볍게 학습했었고, HTML과 CSS의 �
 
 ***
 
-* [ ] React란?
-* [ ] React 컴포넌트
-* [ ] React 리렌더링
-* [ ] IoC(Inversion of Control)
-* [ ] Library vs Framework
+* [x] React란?
+* [x] React 컴포넌트
+* [x] React 리렌더링
+* [x] IoC(Inversion of Control)
+* [x] Library vs Framework
 
 ***
 

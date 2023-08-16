@@ -34,4 +34,36 @@ layout:
 
 #### &#x20; 내용물
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="https://www.w3schools.com/react/react_props.asp">https://www.w3schools.com/react/react_props.asp</a></td></tr><tr><td></td><td></td><td></td><td><a href="https://legacy.reactjs.org/docs/state-and-lifecycle.html">https://legacy.reactjs.org/docs/state-and-lifecycle.html</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Data passed to the component from a parent component.</td><td><a href="../../.gitbook/assets/React Props.png">React Props.png</a></td><td><a href="https://www.w3schools.com/react/react_props.asp">https://www.w3schools.com/react/react_props.asp</a></td></tr><tr><td></td><td>Internal data specific to a component.</td><td><a href="../../.gitbook/assets/State and Lifecycle.png">State and Lifecycle.png</a></td><td><a href="https://legacy.reactjs.org/docs/state-and-lifecycle.html">https://legacy.reactjs.org/docs/state-and-lifecycle.html</a></td></tr></tbody></table>
+
+#### &#x20; 함수 컴포넌트와 클래스 컴포넌트
+
+&#x20; Hooks가 도입되기 전에, 클래스 컴포넌트는 React에서 State 및 Lifecycle Method들을 처리하는 주된 방법으로 쓰여 왔습니다.
+
+
+
+{% code title="컴포넌트의 예 (함수 컴포넌트)" %}
+```javascript
+function Car() {
+  return <h2>Hi, I am a Car!</h2>;
+}
+```
+{% endcode %}
+
+***
+
+{% code title="컴포넌트의 예 (클래스 컴포넌트)" %}
+```javascript
+class Car extends React.Component {
+  render() {
+    return <h2>Hi, I am a Car!</h2>;
+  }
+}
+```
+{% endcode %}
+
+
+
+## IoC(Inversion of Control)
+
+&#x20; 컴포넌트를 \<Car />와 같이 사용할 수 있는 것과 관련있다. :bookmark\_tabs:<mark style="color:green;background-color:orange;">**추가 계획중.**</mark>

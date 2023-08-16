@@ -52,9 +52,9 @@ JavaScript로 알고리즘을 아주 가볍게 학습했었고, HTML과 CSS의 �
 
 ***
 
-* [ ] Jest
+* [x] Jest
 * [ ] Describe-Context-It 패턴
-* [ ] React Testing Library
+* [x] React Testing Library
 
 ***
 

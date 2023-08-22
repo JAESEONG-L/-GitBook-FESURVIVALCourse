@@ -9,6 +9,7 @@
   * [📘 React](weekly-studies/week-1/about-react.md)
   * [📘 Testing Library](weekly-studies/week-1/testing-library.md)
   * [📘 Bundler](weekly-studies/week-1/bundler.md)
+* [➕ Week 2](weekly-studies/week-2.md)
 
 ## Detailed
 

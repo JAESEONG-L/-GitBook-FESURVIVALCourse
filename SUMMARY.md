@@ -9,7 +9,10 @@
   * [📘 React](weekly-studies/week-1/about-react.md)
   * [📘 Testing Library](weekly-studies/week-1/testing-library.md)
   * [📘 Bundler](weekly-studies/week-1/bundler.md)
-* [➕ Week 2](weekly-studies/week-2.md)
+* [➕ Week 2](weekly-studies/week-2/README.md)
+  * [📘 JSX의 역사](weekly-studies/week-2/jsx.md)
+  * [📘 React Element](weekly-studies/week-2/react-element.md)
+  * [📘 VDOM](weekly-studies/week-2/vdom.md)
 
 ## Detailed
 

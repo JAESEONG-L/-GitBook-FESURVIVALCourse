@@ -33,13 +33,13 @@ layout:
 
 ## NPM(Node Package Manager)
 
-### &#x20;정의
+### &#x20;_정의_
 
 &#x20; 말 그대로 Node.js를 기반으로 개발하는 프로젝트를 패키지로써 관리하기 위한 프로그램이다.
 
 
 
-### &#x20;package.json / package-lock.json
+### &#x20;_package.json / package-lock.json_
 
 &#x20; package.json 파일은 "npm init" 명령으로 프로젝트를 초기화하는 과정에서 생성되며, 프로젝트와 관련된 메타데이터들을 포함하고 있을 뿐만 아니라 의존성 목록**(Dependencies)**, 그리고 개발 과정에서 필요로 하는 툴 등의 개발의존성 목록**(DevDependencies)**을 저장해 놓고 있다.
 
@@ -47,7 +47,7 @@ layout:
 
 
 
-### &#x20;node\_modules
+### &#x20;_node\_modules_
 
 &#x20; 위에서 살펴봤던 package-lock.json 파일에서 프로젝트의 의존성을 보다 엄격하게 관리한다고 했던 수단 중에 하나가, 바로 node\_modules 폴더의 구조를 똑같이 저장해 놓는 것이라고 한다.
 

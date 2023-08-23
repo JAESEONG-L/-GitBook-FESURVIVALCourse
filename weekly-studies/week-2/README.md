@@ -25,10 +25,10 @@ layout:
 
 ### 기본 키워드들
 
-* [ ] React에서 JSX를 사용하는 목적
-* [ ] Syntactic sugar
-* [ ] React.createElement
-* [ ] React Element
+* [x] React에서 JSX를 사용하는 목적
+* [x] Syntactic sugar
+* [x] React.createElement
+* [x] React Element
 * [ ] React StrictMode
 * [ ] VDOM(Virtual DOM)이란?\
   **>** DOM이란?\

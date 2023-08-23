@@ -25,3 +25,6 @@ layout:
 
 ## 정의
 
+&#x20; React.createElement 또는 JSX 문법을 사용하여 만들어지는 객체로써, DOM 구조에 반영되어 브라우저에 드러나는 성분에 대한 정보들(성질들)을 가지고 있다. 앞서 공부했었던 React Component의 근본적인 역할이 바로 새로운 React Element를 제작하는 것이다.
+
+&#x20; 이렇게 만들어진 React Element들은 ReactDOM 모듈 등을 사용해 Virtual DOM 구조에 반영되고, 궁극적으로는 실제 DOM과 렌더링 결과에 반영된다.

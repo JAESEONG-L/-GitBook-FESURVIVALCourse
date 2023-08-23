@@ -29,8 +29,8 @@ layout:
 * [x] Syntactic sugar
 * [x] React.createElement
 * [x] React Element
-* [ ] React StrictMode
-* [ ] VDOM(Virtual DOM)이란?\
+* [x] React StrictMode
+* [x] VDOM(Virtual DOM)이란?\
   **>** DOM이란?\
   **>** DOM과 Virtual DOM의 차이
-* [ ] Reconciliation(재조정) 과정은 무엇인가?
+* [x] Reconciliation(재조정) 과정은 무엇인가?
